@@ -1,4 +1,9 @@
-<h1 align="center">Hi There 👋, I'm Ahmet</h1>
+<p align="center">
+  <img
+    src="https://github.com/ahmettakcan/ahmettakcan/blob/main/img/github-header-image.png"
+    alt="Failed"
+  />
+</p>
 
 <h3 align="center"> This is the place for a stubborn software developer </h3>
 
