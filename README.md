@@ -1,5 +1,8 @@
 <h1 align="center">Hi There 👋, I'm Ahmet</h1>
 
+<h3 align="center"> This is the place for a stubborn software developer </h3>
+
+
 <h3 align="center">My Stats</h3>
 
 <p align="center">
