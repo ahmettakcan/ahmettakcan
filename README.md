@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://github.com/ahmettakcan/ahmettakcan/blob/main/img/github-header-image.png"
+    src="https://github.com/ahmettakcan/ahmettakcan/blob/main/img/github-header-image%20(1).png"
     alt="Failed"
   />
 </p>
