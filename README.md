@@ -1,3 +1,23 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahmettakcan&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmettakcan&theme=vision-friendly-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmettakcan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3 align="center">My Stats</h3>
+
+<p align="center">
+  <img
+    src="http://github-readme-streak-stats.herokuapp.com?user=ahmettakcan&theme=gotham&hide_border=true&date_format=%5BY%20%5DM%20j)"
+    alt="ahmettakcan"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ahmettakcan&theme=gotham&show_icons=true"
+    alt="ahmettakcan"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmettakcan&show_icons=true&theme=gotham&layout=compact&count_private=true&hide_border=true"
+    alt="ahmettakcan"
+  />
+</p>
